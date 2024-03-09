@@ -1,0 +1,202 @@
+{
+    "icecreams": [
+        {
+            "flavor": "Vanilla",
+            "description": "A classic flavor that never gets old.",
+            "toppings": [
+                "Chocolate Syrup",
+                "Sprinkles",
+                "Whipped Cream"
+            ],
+            "price": 4.99,
+            "image": "https://images.unsplash.com/photo-1497034825429-c343d7c6a68f?q=80&w=2787&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "ingredients": [
+                {
+                    "name": "Vanilla Extract",
+                    "quantity": "2 tsp",
+                    "image": "https://images.unsplash.com/photo-1610487512810-b614ad747572?q=80&w=2928&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                },
+                {
+                    "name": "Sugar",
+                    "image": "https://images.unsplash.com/photo-1610219171722-87b3f4170557?q=80&w=2275&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                    "quantity": "3/4 cup"
+                },
+                {
+                    "name": "Heavy Cream",
+                    "image": "https://images.unsplash.com/photo-1622737301337-c1b9d62fe31a?q=80&w=2787&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                    "quantity": "2 cups"
+                },
+                {
+                    "name": "Milk",
+                    "image": "https://images.unsplash.com/photo-1550583724-b2692b85b150?q=80&w=2787&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                    "quantity": "1 cup"
+                }
+            ]
+        },
+        {
+            "flavor": "Chocolate",
+            "description": "A rich and creamy flavor that is a chocolate lover's dream.",
+            "toppings": [
+                "Chocolate Syrup",
+                "Chocolate Chips",
+                "Brownie Bites"
+            ],
+            "price": 5.29,
+            "image": "https://images.unsplash.com/photo-1580915411954-282cb1b0d780?q=80&w=2787&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "ingredients": [
+                {
+                    "name": "Cocoa Powder",
+                    "quantity": "1/2 cup",
+                    "image": "https://images.unsplash.com/photo-1565498971161-42ae3dbcca75?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                },
+                {
+                    "name": "Sugar",
+                    "image": "https://images.unsplash.com/photo-1610219171722-87b3f4170557?q=80&w=2275&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                    "quantity": "1 cup"
+                },
+                {
+                    "name": "Heavy Cream",
+                    "image": "https://images.unsplash.com/photo-1622737301337-c1b9d62fe31a?q=80&w=2787&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                    "quantity": "2 cups"
+                },
+                {
+                    "name": "Milk",
+                    "image": "https://images.unsplash.com/photo-1550583724-b2692b85b150?q=80&w=2787&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                    "quantity": "1 cup"
+                }
+            ]
+        },
+        {
+            "flavor": "Strawberry",
+            "description": "A sweet and fruity flavor that is perfect for summer.",
+            "toppings": [
+                "Strawberry Syrup",
+                "Fresh Strawberries",
+                "Whipped Cream"
+            ],
+            "price": 5.89,
+            "image": "https://images.unsplash.com/photo-1633933358116-a27b902fad35?q=80&w=2864&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "ingredients": [
+                {
+                    "name": "Strawberries",
+                    "quantity": "1 lb",
+                    "image": "https://images.unsplash.com/photo-1588165171080-c89acfa5ee83?q=80&w=2787&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                },
+                {
+                    "name": "Sugar",
+                    "image": "https://images.unsplash.com/photo-1610219171722-87b3f4170557?q=80&w=2275&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                    "quantity": "3/4 cup"
+                },
+                {
+                    "name": "Heavy Cream",
+                    "image": "https://images.unsplash.com/photo-1622737301337-c1b9d62fe31a?q=80&w=2787&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                    "quantity": "2 cups"
+                },
+                {
+                    "name": "Milk",
+                    "image": "https://images.unsplash.com/photo-1550583724-b2692b85b150?q=80&w=2787&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                    "quantity": "1 cup"
+                }
+            ]
+        },
+        {
+            "flavor": "Mint Chocolate Chip",
+            "description": "A refreshing and creamy flavor with chocolate chips mixed in.",
+            "toppings": [
+                "Chocolate Syrup",
+                "Chocolate Chips",
+                "Mint Leaves"
+            ],
+            "price": 6.49,
+            "image": "https://images.unsplash.com/photo-1496041877055-c55fc243fc32?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "ingredients": [
+                {
+                    "name": "Mint Extract",
+                    "quantity": "1 tsp",
+                    "image": "https://images.unsplash.com/photo-1556118903-08e0b48041fc?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                },
+                {
+                    "name": "Sugar",
+                    "image": "https://images.unsplash.com/photo-1610219171722-87b3f4170557?q=80&w=2275&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                    "quantity": "3/4 cup"
+                },
+                {
+                    "name": "Heavy Cream",
+                    "image": "https://images.unsplash.com/photo-1622737301337-c1b9d62fe31a?q=80&w=2787&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                    "quantity": "2 cups"
+                },
+                {
+                    "name": "Milk",
+                    "image": "https://images.unsplash.com/photo-1550583724-b2692b85b150?q=80&w=2787&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                    "quantity": "1 cup"
+                }
+            ]
+        },
+        {
+            "flavor": "Cookies and Cream",
+            "description": "A classic flavor with chunks of chocolate cookies mixed in.",
+            "toppings": [
+                "Chocolate Syrup",
+                "Crushed Cookies",
+                "Whipped Cream"
+            ],
+            "price": 5.19,
+            "image": "https://images.unsplash.com/photo-1616863858589-9e04f2728c86?q=80&w=2960&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "ingredients": [
+                {
+                    "name": "Chocolate Cookies",
+                    "quantity": "1 cup",
+                    "image": "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?q=80&w=2678&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                },
+                {
+                    "name": "Sugar",
+                    "image": "https://images.unsplash.com/photo-1610219171722-87b3f4170557?q=80&w=2275&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                    "quantity": "3/4 cup"
+                },
+                {
+                    "name": "Heavy Cream",
+                    "image": "https://images.unsplash.com/photo-1622737301337-c1b9d62fe31a?q=80&w=2787&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                    "quantity": "2 cups"
+                },
+                {
+                    "name": "Milk",
+                    "image": "https://images.unsplash.com/photo-1550583724-b2692b85b150?q=80&w=2787&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                    "quantity": "1 cup"
+                }
+            ]
+        },
+        {
+            "flavor": "Pistachio",
+            "description": "A nutty and creamy flavor that is perfect for pistachio lovers.",
+            "toppings": [
+                "Pistachio Syrup",
+                "Crushed Pistachios",
+                "Whipped Cream"
+            ],
+            "price": 6.99,
+            "image": "https://images.unsplash.com/photo-1534706936160-d5ee67737249?q=80&w=2787&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "ingredients": [
+                {
+                    "name": "Pistachios",
+                    "quantity": "1 cup",
+                    "image": "https://images.unsplash.com/photo-1502825751399-28baa9b81efe?q=80&w=2938&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                },
+                {
+                    "name": "Sugar",
+                    "image": "https://images.unsplash.com/photo-1610219171722-87b3f4170557?q=80&w=2275&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                    "quantity": "3/4 cup"
+                },
+                {
+                    "name": "Heavy Cream",
+                    "image": "https://images.unsplash.com/photo-1622737301337-c1b9d62fe31a?q=80&w=2787&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                    "quantity": "2 cups"
+                },
+                {
+                    "name": "Milk",
+                    "image": "https://images.unsplash.com/photo-1550583724-b2692b85b150?q=80&w=2787&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                    "quantity": "1 cup"
+                }
+            ]
+        }
+    ]
+}
